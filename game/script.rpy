@@ -4,7 +4,7 @@ define m = Character("Mike", what_prefix="“", what_suffix="”")
 define f = Character("Fino", what_prefix="“", what_suffix="”")
 
 image f:
-    "fino1_clothed.png"
+    "sprites/fino1_clothed.png"
     zoom 0.5
 # The game starts here.
 
